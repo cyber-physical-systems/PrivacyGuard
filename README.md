@@ -33,3 +33,7 @@ can effectively prevent a wide range of state-of-the-art machine
 learning-based and deep learning-based occupancy and other 9 user
 in-home activity detection attacks. We release the source code and
 datasets of PrivacyGuard to IoT research community.
+
+## Datasets
+
+To download data: [Download (TBA)](http://50.19.41.57/).
