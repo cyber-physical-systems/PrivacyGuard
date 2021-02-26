@@ -1,6 +1,6 @@
 # PrivacyGuard
 
-PrivacyGuard: Enhancing Smart Home User Privacy
+#### PrivacyGuard: Enhancing Smart Home User Privacy
 Keyang Yu, Qi Li, Dong Chen, Mohammad Rahman, and Shiqiang Wang
 
 The Internet of Things (IoT) devices have been increasingly deployed
