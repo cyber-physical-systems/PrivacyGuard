@@ -1,5 +1,5 @@
 
-#### PrivacyGuard: Enhancing Smart Home User Privacy
+# PrivacyGuard: Enhancing Smart Home User Privacy
 
 Keyang Yu, Qi Li, Dong Chen, Mohammad Rahman and Shiqiang Wang. 2021. PrivacyGuard: Enhancing Smart Home User Privacy. In The 20th International Conference on Information Processing in Sensor Networks (co- located with CPS-IoT Week 2021) (IPSN ’21), May 18–21, 2021, Nashville, TN, USA. ACM, New York, NY, USA, 15 pages. https://doi.org/10.1145/ 3412382.3458257
 
