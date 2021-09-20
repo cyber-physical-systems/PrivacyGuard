@@ -177,10 +177,6 @@ Section 6.4.3 Quantifying Traffic Overhead
 
 `AdditionalTraffic.py` is used to compare the traffic overhead for different privacy-preserving models.
 
-
-
-## Datasets
-
 ## Datasets
 
 [UNSW Dataset](https://iotanalytics.unsw.edu.au/iottraces).
